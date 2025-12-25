@@ -1,0 +1,3 @@
+# Systemic Consistency Evaluation Framework (AKH-093-SR)
+# Required for real-time telemetry and hardware resource profiling
+psutil>=5.9.0
